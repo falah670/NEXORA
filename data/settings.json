@@ -1,0 +1,24 @@
+{
+  "1517161962348482742": {
+    "ticketCategory": null,
+    "ticketSupportRole": null,
+    "ticketLogChannel": null,
+    "punishmentLogChannel": null,
+    "punishmentReviewChannel": null,
+    "bannedTemporaryRole": null,
+    "bannedPermanentRole": null,
+    "warn1Role": null,
+    "warn2Role": null,
+    "warn3Role": null,
+    "callUpChannel": null,
+    "waitingChannel": null,
+    "waitingAdminRole": null,
+    "waitingStaffVoiceChannels": [],
+    "waitingNotificationChannel": null,
+    "waitingWarningMinutes": 10,
+    "waitingInactivityMinutes": 60,
+    "waitingPointsPerHour": 1,
+    "waitingPointsPerCall": 2,
+    "pointsEnabled": false
+  }
+}

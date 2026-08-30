@@ -1,0 +1,30 @@
+{
+  "1517161962348482742": {
+    "ticketCategory": null,
+    "ticketSupportRole": null,
+    "ticketLogChannel": null,
+    "punishmentLogChannel": null,
+    "punishmentReviewChannel": null,
+    "bannedTemporaryRole": "1543313178291605554",
+    "bannedPermanentRole": "1543313750650523738",
+    "warn1Role": "1543313408458363111",
+    "warn2Role": "1543313482957725816",
+    "warn3Role": "1543313544513200291",
+    "callUpChannel": "1543434567623512145",
+    "waitingChannel": "1542671243449213051",
+    "waitingAdminRole": null,
+    "waitingStaffVoiceChannels": [
+      "1542670432195448902"
+    ],
+    "waitingNotificationChannel": "1542653514742767647",
+    "waitingWarningMinutes": 10,
+    "waitingInactivityMinutes": 60,
+    "waitingPointsPerHour": 1,
+    "waitingPointsPerCall": 2,
+    "pointsEnabled": false,
+    "systemName": "Falah Systems",
+    "embedColor": "#5865F2",
+    "systemFooter": "Falah Systems",
+    "systemLogo": null
+  }
+}
