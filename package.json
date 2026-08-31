@@ -1,6 +1,13 @@
 {
+  "name": "falah-systems-v1",
+  "version": "1.0.0",
+  "description": "Discord Bot Systems",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "discord.js": "^14.27.0",
-    "dotenv": "^17.4.2"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
   }
 }

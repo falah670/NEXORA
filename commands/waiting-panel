@@ -1,0 +1,13 @@
+const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js');
+const waitingSystem = require('../systems/waitingSystem');
+
+module.exports = {
+    data: new SlashCommandBuilder()
+        .setName('waiting-panel')
+        .setDescription('إرسال لوحة نظام الانتظار الخاصة بالإداريين')
+        .setDefaultMemberPermissions(PermissionFlagsBits.ManageGuild),
+
+    async execute(interaction) {
+        await waitingSystem.sendPanel(interaction);
+    },
+};
